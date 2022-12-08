@@ -6,7 +6,10 @@ import kotlin.system.measureTimeMillis
 fun main() {
     val days = listOf(
         Day01(),
-        Day07()
+        Day02(),
+        Day03(),
+        Day07(),
+        Day08()
     )
 
     days.forEach {
