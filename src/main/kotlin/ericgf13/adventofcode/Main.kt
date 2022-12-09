@@ -10,7 +10,8 @@ fun main() {
         Day03(),
         Day04(),
         Day07(),
-        Day08()
+        Day08(),
+        Day09()
     )
 
     days.forEach {
